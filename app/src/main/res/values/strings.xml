@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecycleView_0</string>
+    <string name="price">%s EGP</string>
+</resources>
